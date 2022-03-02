@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dbfdb7e899f548ef806ce40f9de317b, type: 3}
+  m_Name: Ice2
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 5b82cce1d8a744148bbe5c1df4224c9c, type: 3}
+  effectImage: {fileID: 21300000, guid: 5a3ed9dd9a26e4b98b4e8073889292b1, type: 3}
+  sfx: {fileID: 8300000, guid: 56458c41fafba4b99ba5179f1d3d8812, type: 3}
+  title: Multi Ice
+  description: Casts multiple Ice attacks
+  manaCost: 2
+  damage: 4
+  countInDeck: 4
+  isBooster: 0
+  isFire: 0
+  isIce: 1
